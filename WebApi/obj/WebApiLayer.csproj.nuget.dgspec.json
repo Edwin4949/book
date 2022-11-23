@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\employee\\BookVerse\\WebApi\\WebApiLayer.csproj": {}
+    "D:\\BookVerse\\book\\WebApi\\WebApiLayer.csproj": {}
   },
   "projects": {
-    "D:\\employee\\BookVerse\\ApplicationLayer\\ApplicationLayer.csproj": {
+    "D:\\BookVerse\\book\\ApplicationLayer\\ApplicationLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\employee\\BookVerse\\ApplicationLayer\\ApplicationLayer.csproj",
+        "projectUniqueName": "D:\\BookVerse\\book\\ApplicationLayer\\ApplicationLayer.csproj",
         "projectName": "ApplicationLayer",
-        "projectPath": "D:\\employee\\BookVerse\\ApplicationLayer\\ApplicationLayer.csproj",
-        "packagesPath": "C:\\Users\\esony\\.nuget\\packages\\",
-        "outputPath": "D:\\employee\\BookVerse\\ApplicationLayer\\obj\\",
+        "projectPath": "D:\\BookVerse\\book\\ApplicationLayer\\ApplicationLayer.csproj",
+        "packagesPath": "C:\\Users\\asamad\\.nuget\\packages\\",
+        "outputPath": "D:\\BookVerse\\book\\ApplicationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\esony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\employee\\BookVerse\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "D:\\employee\\BookVerse\\DomainLayer\\DomainLayer.csproj"
+              "D:\\BookVerse\\book\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "D:\\BookVerse\\book\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }
@@ -97,17 +97,17 @@
         }
       }
     },
-    "D:\\employee\\BookVerse\\DomainLayer\\DomainLayer.csproj": {
+    "D:\\BookVerse\\book\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\employee\\BookVerse\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "D:\\BookVerse\\book\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "D:\\employee\\BookVerse\\DomainLayer\\DomainLayer.csproj",
-        "packagesPath": "C:\\Users\\esony\\.nuget\\packages\\",
-        "outputPath": "D:\\employee\\BookVerse\\DomainLayer\\obj\\",
+        "projectPath": "D:\\BookVerse\\book\\DomainLayer\\DomainLayer.csproj",
+        "packagesPath": "C:\\Users\\asamad\\.nuget\\packages\\",
+        "outputPath": "D:\\BookVerse\\book\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\esony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -186,17 +186,17 @@
         }
       }
     },
-    "D:\\employee\\BookVerse\\InfrastructureLayer\\InfrastructureLayer.csproj": {
+    "D:\\BookVerse\\book\\InfrastructureLayer\\InfrastructureLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\employee\\BookVerse\\InfrastructureLayer\\InfrastructureLayer.csproj",
+        "projectUniqueName": "D:\\BookVerse\\book\\InfrastructureLayer\\InfrastructureLayer.csproj",
         "projectName": "InfrastructureLayer",
-        "projectPath": "D:\\employee\\BookVerse\\InfrastructureLayer\\InfrastructureLayer.csproj",
-        "packagesPath": "C:\\Users\\esony\\.nuget\\packages\\",
-        "outputPath": "D:\\employee\\BookVerse\\InfrastructureLayer\\obj\\",
+        "projectPath": "D:\\BookVerse\\book\\InfrastructureLayer\\InfrastructureLayer.csproj",
+        "packagesPath": "C:\\Users\\asamad\\.nuget\\packages\\",
+        "outputPath": "D:\\BookVerse\\book\\InfrastructureLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\esony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -210,8 +210,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\employee\\BookVerse\\ApplicationLayer\\ApplicationLayer.csproj": {
-                "projectPath": "D:\\employee\\BookVerse\\ApplicationLayer\\ApplicationLayer.csproj"
+              "D:\\BookVerse\\book\\ApplicationLayer\\ApplicationLayer.csproj": {
+                "projectPath": "D:\\BookVerse\\book\\ApplicationLayer\\ApplicationLayer.csproj"
               }
             }
           }
@@ -279,17 +279,17 @@
         }
       }
     },
-    "D:\\employee\\BookVerse\\WebApi\\WebApiLayer.csproj": {
+    "D:\\BookVerse\\book\\WebApi\\WebApiLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\employee\\BookVerse\\WebApi\\WebApiLayer.csproj",
+        "projectUniqueName": "D:\\BookVerse\\book\\WebApi\\WebApiLayer.csproj",
         "projectName": "WebApiLayer",
-        "projectPath": "D:\\employee\\BookVerse\\WebApi\\WebApiLayer.csproj",
-        "packagesPath": "C:\\Users\\esony\\.nuget\\packages\\",
-        "outputPath": "D:\\employee\\BookVerse\\WebApi\\obj\\",
+        "projectPath": "D:\\BookVerse\\book\\WebApi\\WebApiLayer.csproj",
+        "packagesPath": "C:\\Users\\asamad\\.nuget\\packages\\",
+        "outputPath": "D:\\BookVerse\\book\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\esony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asamad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -303,11 +303,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\employee\\BookVerse\\ApplicationLayer\\ApplicationLayer.csproj": {
-                "projectPath": "D:\\employee\\BookVerse\\ApplicationLayer\\ApplicationLayer.csproj"
+              "D:\\BookVerse\\book\\ApplicationLayer\\ApplicationLayer.csproj": {
+                "projectPath": "D:\\BookVerse\\book\\ApplicationLayer\\ApplicationLayer.csproj"
               },
-              "D:\\employee\\BookVerse\\InfrastructureLayer\\InfrastructureLayer.csproj": {
-                "projectPath": "D:\\employee\\BookVerse\\InfrastructureLayer\\InfrastructureLayer.csproj"
+              "D:\\BookVerse\\book\\InfrastructureLayer\\InfrastructureLayer.csproj": {
+                "projectPath": "D:\\BookVerse\\book\\InfrastructureLayer\\InfrastructureLayer.csproj"
               }
             }
           }

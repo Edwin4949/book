@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApplicationLayer", "Applica
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfrastructureLayer", "InfrastructureLayer\InfrastructureLayer.csproj", "{D545C7CE-3E28-441C-A356-C7E748825666}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiLayer", "WebApi\WebApiLayer.csproj", "{42274A6F-92C0-40E0-8633-3358251BFF62}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InfrastructureLayerBook", "InfrastructureLayerBook", "{ADD43A94-04E7-492C-9059-A85685098B96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiLayer", "WebApiLayer\WebApiLayer.csproj", "{524E5EBE-611C-48B9-A35C-8A0BEDC8F8A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,10 +31,10 @@ Global
 		{D545C7CE-3E28-441C-A356-C7E748825666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D545C7CE-3E28-441C-A356-C7E748825666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D545C7CE-3E28-441C-A356-C7E748825666}.Release|Any CPU.Build.0 = Release|Any CPU
-		{42274A6F-92C0-40E0-8633-3358251BFF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{42274A6F-92C0-40E0-8633-3358251BFF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{42274A6F-92C0-40E0-8633-3358251BFF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{42274A6F-92C0-40E0-8633-3358251BFF62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{524E5EBE-611C-48B9-A35C-8A0BEDC8F8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524E5EBE-611C-48B9-A35C-8A0BEDC8F8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524E5EBE-611C-48B9-A35C-8A0BEDC8F8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524E5EBE-611C-48B9-A35C-8A0BEDC8F8A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
