@@ -1,4 +1,5 @@
 ﻿using DomainLayer;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,12 +9,13 @@ using System.Threading.Tasks;
 
 namespace InfrastructureLayer
 {
-    public class AppDbContext
+    public class AppDbContext:DbContext
     {
-        public AppDbContext(DbContextOptions dboptions) : base(dboptions)
+        public AppDbContext(DbContextOptions <AppDbContext> dboptions) : base(dboptions)
         {
         }
-        public DbSet<UserVerify> VerifyDetails { get; set; }
+        public DbSet<UserRegister>? UserRegisterDetails { get; set; }    
+        
 
     }
 
